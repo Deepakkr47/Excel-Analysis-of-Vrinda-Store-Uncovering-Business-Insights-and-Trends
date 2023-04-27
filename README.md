@@ -1,0 +1,2 @@
+# Excel-Analysis-of-Vrinda-Store-Uncovering-Business-Insights-and-Trends
+This project uses Excel to analyze the sales data of Vrinda Store and uncover key insights and trends. Through various charts, graphs, and pivot tables, the project provides a comprehensive overview of the store's performance over a specific period of time. By examining data such as sales by product category, customer demographics and sales trends.
